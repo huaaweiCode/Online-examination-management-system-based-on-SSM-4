@@ -73,5 +73,8 @@
 ![管理员-科目管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131642448.jpg)
 
 ![管理员-班级添加课程](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131642536.jpg)
+### 获取方式&视频演示
 
+下方扫一下，回复关键词：考试
 
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
